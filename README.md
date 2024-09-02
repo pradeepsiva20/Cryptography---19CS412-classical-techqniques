@@ -291,8 +291,9 @@ int main() {
 }
 ```
 ## OUTPUT:
+![exppp2](https://github.com/user-attachments/assets/da5d27a0-6513-4dc5-be52-987102ccbf68)
 
-![cry ex22](https://github.com/user-attachments/assets/f4b2d328-5ec4-4efb-bfbf-02cb01f7aa25)
+
 
 
 ## RESULT:
