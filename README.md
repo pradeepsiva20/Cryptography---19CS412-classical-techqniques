@@ -97,8 +97,8 @@ int main() {
 }
 ```
 ## OUTPUT:
+![cry ex1](https://github.com/user-attachments/assets/ea9a0270-a8ae-443c-bc65-812dc582bccc)
 
-![Screenshot 2024-09-02 181906](https://github.com/user-attachments/assets/03514400-89c7-4bed-bca4-9e192d13b494)
 
 ## RESULT:
 The program for Caeser Cipher is executed successfully
@@ -292,7 +292,7 @@ int main() {
 ```
 ## OUTPUT:
 
-![Screenshot 2024-09-02 182531](https://github.com/user-attachments/assets/045aa4e2-17b1-4298-93ff-19b562749a44)
+![cry ex22](https://github.com/user-attachments/assets/f4b2d328-5ec4-4efb-bfbf-02cb01f7aa25)
 
 
 ## RESULT:
@@ -377,7 +377,7 @@ int main() {
     char dec[1000] = "";
     int n;
 
-    strcpy(msg, "AAKASHRAJ");
+    strcpy(msg, "PRADEEP");
     printf("Input message : %s\n", msg);
 
     // Convert the input message to uppercase
@@ -424,8 +424,8 @@ int main() {
 }
 ```
 ## OUTPUT:
+![CRY EX3](https://github.com/user-attachments/assets/832887be-0d99-4fc4-99ca-b7070a7c3266)
 
-![Screenshot 2024-09-02 182843](https://github.com/user-attachments/assets/c3c489aa-71e7-4325-805b-187d7105aea2)
 
 ## RESULT:
 The program Hill Cipher is executed successfully
@@ -537,7 +537,8 @@ void decipher() {
 ```
 ## OUTPUT:
 
-![Screenshot 2024-09-02 183310](https://github.com/user-attachments/assets/1f5db753-5631-43d7-b32e-e6aff736843d)
+![CRY EX4](https://github.com/user-attachments/assets/ed768cc8-a032-4104-a0dc-9aeed1bcdbec)
+
 
 ## RESULT:
 The program Vigenere Cipher is executed successfully
@@ -680,7 +681,8 @@ int main() {
 ```
 ## OUTPUT:
 
-![Screenshot 2024-09-02 183514](https://github.com/user-attachments/assets/4f1a8c70-cd66-4b66-8cb6-a2eeb5de1b0d)
+![CRY EX5](https://github.com/user-attachments/assets/2c4450c9-6daa-4fc8-a5b9-e41269279be4)
+
 
 ## RESULT:
 The program Rail Fence Cipher is executed successfully
