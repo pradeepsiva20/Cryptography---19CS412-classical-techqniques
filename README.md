@@ -13,9 +13,11 @@ To encrypt and decrypt the given message by using Ceaser Cipher encryption algor
 
 Design of Caeser Cipher algorithnm 
 
+
 ### Step 2:
 
 Implementation using C or pyhton code
+
 
 ### Step 3:
 
@@ -27,6 +29,7 @@ Implementation using C or pyhton code
                        En(x) = (x + n) mod26
 5.	Decryption is performed similarly,
                        Dn (x)=(x - n) mod26
+
 
 
 ## PROGRAM:
