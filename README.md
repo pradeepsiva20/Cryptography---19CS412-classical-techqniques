@@ -291,8 +291,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![exppp2](https://github.com/user-attachments/assets/da5d27a0-6513-4dc5-be52-987102ccbf68)
 
+![Screenshot 2024-10-22 141823](https://github.com/user-attachments/assets/14f07287-0207-4fa4-984e-3d4ae0e57b14)
 
 
 
